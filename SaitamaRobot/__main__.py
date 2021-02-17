@@ -242,13 +242,13 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🧾 Getting started guide",
-                                url="https://t.me/shinchan7/2",
+                                url="https://t.me/shinchan7/4",
                             )
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🗄 Source code",
-                                url="https://github.com/deepanshu143/SaitamaRobot/",
+                                text="🔥My Creator🔥",
+                                url="https://t.me/MTY_IZ",
                             )
                         ],
                     ]
@@ -256,7 +256,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            "I'm awake already!\n<b>Haven't slept since:</b> <code>{}</code>".format(
+            "I'm Online already!\n<b>Haven't slept since:</b> <code>{}</code>".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
