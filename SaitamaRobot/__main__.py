@@ -242,7 +242,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🧾 Getting started guide",
-                                url="https://t.me/shinchan7/1",
+                                url="https://t.me/shinchan7/2",
                             )
                         ],
                         [
