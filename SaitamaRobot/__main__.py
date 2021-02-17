@@ -82,7 +82,7 @@ You can find my list of available commands with /help.
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm a Hero For Fun and help admins manage their groups! Have a look at the following for an idea of some of \
+I'm shinchan For Fun and help admins manage their groups! Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
@@ -242,7 +242,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🧾 Getting started guide",
-                                url="https://t.me/shinchan7",
+                                url="https://t.me/shinchan7/1",
                             )
                         ],
                         [
