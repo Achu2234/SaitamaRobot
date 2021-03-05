@@ -101,7 +101,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/b889bfe5389e50580f5eb.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/26e0ecf13adabbddb7a77.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
@@ -231,8 +231,8 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="👍🏻 Support Group👍🏻",
-                                url=f"https://t.me/shinchan7",
+                                text="🔥My Creator🔥",
+                                url=f"https://t.me/MTY_IZ",
                             ),
                             InlineKeyboardButton(
                                 text="🔔 Updates Channel🔔",
@@ -242,13 +242,13 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🧾 Getting started guide",
-                                url="https://t.me/shinchan7/4",
+                                url="https://t.me/shinchan7/3",
                             )
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🔥My Creator🔥",
-                                url="https://t.me/MTY_IZ",
+                                text="💾 Source code",
+                                url="https://github.com/deepanshu143/SaitamaRobot",
                             )
                         ],
                     ]
