@@ -231,12 +231,12 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🔥My Creator🔥",
-                                url=f"https://t.me/MTY_IZ",
+                                text=🔔Updates Channel🔔",
+                                url=f"https://t.me/shinchan7",
                             ),
                             InlineKeyboardButton(
-                                text="🔔 Updates Channel🔔",
-                                url="https://t.me/shinchan7",
+                                text="🔥My Master🔥",
+                                url="https://t.me/MTY_IZ",
                             ),
                         ],
                         [
