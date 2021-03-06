@@ -231,7 +231,7 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text=🔔Updates Channel🔔",
+                                text="🔔Updates Channel🔔",
                                 url=f"https://t.me/shinchan7",
                             ),
                             InlineKeyboardButton(
