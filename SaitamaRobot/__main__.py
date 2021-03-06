@@ -76,7 +76,7 @@ PM_START_TEXT = """
 Hi {}, my name is {}! 
 "Ab mai itna bhi kuch khas nhi. 😂"
 I am an Anime themed group management bot.
-Build by weebs for weebs, I specialize in managing anime themed groups.
+Build for group management, I specialize in managing anime themed groups.
 You can find my list of available commands with /help.
 """
 
@@ -101,7 +101,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/26e0ecf13adabbddb7a77.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/266f4ebdf24decf710cef.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
